@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">FacturApp</string>
+    <!-- LOGIN ACTIVITY -->
+    <string name="txt_login">Iniciar Sesión</string>
+    <string name="txt_username">Usuario</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="btn_login">Entrar</string>
+    <!-- MAIN ACTIVITY  -->
+    <string name="btn_clients">Clientes</string>
+    <string name="btn_budgets">Presupuestos</string>
+    <string name="btn_invoices">Facturas</string>
+    <string name="btn_suppliers">Proveedores</string>
+    <string name="btn_options">Opciones</string>
+    <!-- SEARCH ACTIVITY -->
+    <string name="txt_search_module">Buscar %s</string>
+    <string name="txt_new_module_male">Nuevo %s</string>
+    <string name="txt_new_module_female">Nueva %s</string>
+
+        <!-- MODULE CLIENT -->
+        <string name="name_client">cliente</string>
+        <string name="txt_client_id">Nº Cliente:</string>
+        <string name="txt_client_name">Nombre:</string>
+        <string name="txt_client_phone">Tlf:</string>
+        <string name="txt_client_address">Dirección:</string>
+        <!-- MODULE BUDGET -->
+        <string name="name_budget">presupuesto</string>
+        <string name="txt_budget_id">Nº Presupuesto:</string>
+        <string name="txt_budget_date">Fecha:</string>
+        <string name="txt_budget_description">Descripción:</string>
+        <string name="txt_budget_client">Cliente:</string>
+        <!-- MODULE ISSUED INVOICE -->
+        <string name="name_issued_invoice">factura</string>
+        <string name="txt_issued_invoice_id">Nº Factura:</string>
+        <string name="txt_issued_invoice_date">Fecha:</string>
+        <string name="txt_issued_invoice_description">Descripción:</string>
+        <string name="txt_issued_invoice_client">Cliente:</string>
+        <!-- MODULE SUPPLIER -->
+        <string name="name_supplier">proveedor</string>
+        <string name="txt_supplier_id">Nº Proveedor:</string>
+        <string name="txt_supplier_name">Nombre:</string>
+        <string name="txt_supplier_cif">CIF:</string>
+        <!-- MODULE RECEIVED INVOICE -->
+        <string name="name_received_invoice">factura</string>
+        <string name="txt_received_invoice_invoice_number">Nº Factura:</string>
+        <string name="txt_received_invoice_date">Fecha:</string>
+        <string name="txt_received_invoice_supplier">Proveedor:</string>
+
+        <!-- FRAGMENT DIALOG -->
+        <string name="txt_fragment_dialog_client_id">Nº:</string>
+        <string name="txt_fragment_dialog_client_nif">NIF:</string>
+        <string name="txt_fragment_dialog_client_name">Nombre:</string>
+        <string name="txt_fragment_dialog_client_address">Dirección:</string>
+        <string name="btn_fragment_dialog_client_call">Llamar</string>
+        <string name="btn_fragment_dialog_client_whatsapp">Whatsapp</string>
+        <string name="btn_fragment_dialog_client_email">Email</string>
+        <string name="btn_fragment_dialog_client_budgets">Presupuestos</string>
+        <string name="btn_fragment_dialog_client_invoices">Facturas</string>
+        <string name="btn_fragment_dialog_client_edit">Editar</string>
+</resources>
